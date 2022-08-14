@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This site is hosted on github pages
 
 You can use the [editor on GitHub](https://github.com/momoandkoko/Scratch-ext/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
